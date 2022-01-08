@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
-  "version": "0.2.11",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "name": "Joe Johnson",
+  "description": "Joe Johnson - Optimizing tech for human flourishing",
+  "version": "0.1",
+  "author": "Joe Johnson",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
